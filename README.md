@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to create a website to put all resources for parents and coaches to help achieve this goal
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - if you need to get in touch email on 
-- ⚡ Fun fact: ... I'm forever learning 
+- ⚡ Fun fact: ... I'm forever learning - software development is all about problem solving and perserverence 
 
 <!---
 lumanai/lumanai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
